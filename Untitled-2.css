@@ -1,0 +1,11 @@
+.titulo{color: red;
+display: flex;
+justify-content: center;}
+.navbar-brand{font-family:"alex-brush";
+			  font-size:1.5em;
+	background-color: aqua;
+}
+
+.collapse{font-family: "alex-brush";
+background-color: yellow
+}
